@@ -14,6 +14,7 @@ Skin cancer is one of the major types of cancers that can arise from various der
 * A. C. Salian, S. Vaze, P. Singh, G. N. Shaikh, S. Chapaneri and D. Jayaswal, "Skin Lesion Classification using Deep Learning Architectures," 2020 3rd International Conference on Communication System, Computing and IT Applications (CSCITA), Mumbai, India, 2020, pp. 168-173, doi: 10.1109/CSCITA47329.2020.9137810.
 
 * 
+```
 @INPROCEEDINGS{9137810,
   author={A. C. {Salian} and S. {Vaze} and P. {Singh} and G. N. {Shaikh} and S. {Chapaneri} and D. {Jayaswal}},
   booktitle={2020 3rd International Conference on Communication System, Computing and IT Applications (CSCITA)}, 
@@ -22,3 +23,4 @@ Skin cancer is one of the major types of cancers that can arise from various der
   volume={},
   number={},
   pages={168-173},}
+```
